@@ -1,5 +1,6 @@
-{"Homepage": "https://github.com/RealWorldDeveloper/E-commerce-FrontEnd.git",
+{
   "name": "frontend",
+  "homepage": "https://RealWorldDeveloper/github.io/React-Frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
