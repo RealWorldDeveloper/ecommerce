@@ -8,7 +8,7 @@ import { useSelector } from 'react-redux'
 function App() {
   const ShowLogin = useSelector(state => state.login.showLogin.default)
   return (
-    <BrowserRouter basename='/frontEnd/'>
+    <BrowserRouter basename='/eCommerce/'>
     <div>
       {ShowLogin ? <Login/>: <></>}
       <NavBar/>
